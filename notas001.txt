@@ -1,0 +1,1 @@
+Este documento es para guardar notas del desenvolvimiento o desarrollo de este proyecto. 
